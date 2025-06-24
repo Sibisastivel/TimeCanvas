@@ -1,0 +1,2586 @@
+
+[
+  {
+    "id": "1",
+    "title": "New Year's Day",
+    "date": "2025-01-01",
+    "startTime": "00:00",
+    "duration": 1440,
+    "category": "personal",
+    "description": "New Year celebration"
+  },
+  {
+    "id": "2",
+    "title": "Makar Sankranti",
+    "date": "2025-01-14",
+    "startTime": "06:00",
+    "duration": 720,
+    "category": "personal",
+    "description": "Hindu festival marking the transition of the sun into Capricorn"
+  },
+  {
+    "id": "3",
+    "title": "Republic Day",
+    "date": "2025-01-26",
+    "startTime": "00:00",
+    "duration": 1440,
+    "category": "meeting",
+    "description": "National holiday celebrating the adoption of the Indian Constitution"
+  },
+  {
+    "id": "4",
+    "title": "Vasant Panchami",
+    "date": "2025-02-02",
+    "startTime": "09:00",
+    "duration": 480,
+    "category": "personal",
+    "description": "Hindu festival dedicated to Goddess Saraswati"
+  },
+  {
+    "id": "5",
+    "title": "Maha Shivratri",
+    "date": "2025-02-26",
+    "startTime": "18:00",
+    "duration": 720,
+    "category": "personal",
+    "description": "Hindu festival dedicated to Lord Shiva"
+  },
+  {
+    "id": "6",
+    "title": "Holi",
+    "date": "2025-03-14",
+    "startTime": "10:00",
+    "duration": 480,
+    "category": "personal",
+    "description": "Festival of colors and spring"
+  },
+  {
+    "id": "7",
+    "title": "Good Friday",
+    "date": "2025-04-18",
+    "startTime": "09:00",
+    "duration": 360,
+    "category": "personal",
+    "description": "Christian observance of the crucifixion of Jesus"
+  },
+  {
+    "id": "8",
+    "title": "Ram Navami",
+    "date": "2025-04-06",
+    "startTime": "06:00",
+    "duration": 720,
+    "category": "personal",
+    "description": "Hindu festival celebrating the birth of Lord Rama"
+  },
+  {
+    "id": "9",
+    "title": "Eid ul-Fitr",
+    "date": "2025-03-31",
+    "startTime": "06:00",
+    "duration": 720,
+    "category": "personal",
+    "description": "Islamic festival marking the end of Ramadan"
+  },
+  {
+    "id": "10",
+    "title": "Buddha Purnima",
+    "date": "2025-05-12",
+    "startTime": "06:00",
+    "duration": 480,
+    "category": "personal",
+    "description": "Buddhist festival celebrating Buddha's birth, enlightenment, and death"
+  },
+  {
+    "id": "11",
+    "title": "Independence Day",
+    "date": "2025-08-15",
+    "startTime": "00:00",
+    "duration": 1440,
+    "category": "meeting",
+    "description": "National holiday celebrating India's independence from British rule"
+  },
+  {
+    "id": "12",
+    "title": "Raksha Bandhan",
+    "date": "2025-08-09",
+    "startTime": "10:00",
+    "duration": 240,
+    "category": "personal",
+    "description": "Hindu festival celebrating the bond between brothers and sisters"
+  },
+  {
+    "id": "13",
+    "title": "Janmashtami",
+    "date": "2025-08-16",
+    "startTime": "00:00",
+    "duration": 1440,
+    "category": "personal",
+    "description": "Hindu festival celebrating the birth of Lord Krishna"
+  },
+  {
+    "id": "14",
+    "title": "Ganesh Chaturthi",
+    "date": "2025-08-27",
+    "startTime": "06:00",
+    "duration": 480,
+    "category": "personal",
+    "description": "Hindu festival celebrating Lord Ganesha"
+  },
+  {
+    "id": "15",
+    "title": "Gandhi Jayanti",
+    "date": "2025-10-02",
+    "startTime": "00:00",
+    "duration": 1440,
+    "category": "meeting",
+    "description": "National holiday celebrating Mahatma Gandhi's birthday"
+  },
+  {
+    "id": "16",
+    "title": "Dussehra",
+    "date": "2025-10-02",
+    "startTime": "16:00",
+    "duration": 240,
+    "category": "personal",
+    "description": "Hindu festival celebrating the victory of good over evil"
+  },
+  {
+    "id": "17",
+    "title": "Karva Chauth",
+    "date": "2025-10-20",
+    "startTime": "18:00",
+    "duration": 120,
+    "category": "personal",
+    "description": "Hindu festival observed by married women for their husbands' longevity"
+  },
+  {
+    "id": "18",
+    "title": "Dhanteras",
+    "date": "2025-10-29",
+    "startTime": "18:00",
+    "duration": 120,
+    "category": "personal",
+    "description": "Hindu festival marking the beginning of Diwali celebrations"
+  },
+  {
+    "id": "19",
+    "title": "Diwali",
+    "date": "2025-10-31",
+    "startTime": "18:00",
+    "duration": 360,
+    "category": "personal",
+    "description": "Festival of lights - most important Hindu festival"
+  },
+  {
+    "id": "20",
+    "title": "Bhai Dooj",
+    "date": "2025-11-02",
+    "startTime": "10:00",
+    "duration": 240,
+    "category": "personal",
+    "description": "Hindu festival celebrating the bond between brothers and sisters"
+  },
+  {
+    "id": "21",
+    "title": "Guru Nanak Jayanti",
+    "date": "2025-11-15",
+    "startTime": "04:00",
+    "duration": 720,
+    "category": "personal",
+    "description": "Sikh festival celebrating the birth of Guru Nanak"
+  },
+  {
+    "id": "22",
+    "title": "Christmas",
+    "date": "2025-12-25",
+    "startTime": "00:00",
+    "duration": 1440,
+    "category": "personal",
+    "description": "Christian festival celebrating the birth of Jesus Christ"
+  },
+  {
+    "id": "23",
+    "title": "Eid ul-Adha",
+    "date": "2025-06-07",
+    "startTime": "06:00",
+    "duration": 720,
+    "category": "personal",
+    "description": "Islamic festival of sacrifice"
+  },
+  {
+    "id": "24",
+    "title": "Muharram",
+    "date": "2025-06-26",
+    "startTime": "00:00",
+    "duration": 1440,
+    "category": "personal",
+    "description": "Islamic New Year"
+  },
+  {
+    "id": "25",
+    "title": "Nag Panchami",
+    "date": "2025-08-01",
+    "startTime": "08:00",
+    "duration": 240,
+    "category": "personal",
+    "description": "Hindu festival dedicated to serpent worship"
+  },
+  {
+    "id": "26",
+    "title": "Onam",
+    "date": "2025-09-05",
+    "startTime": "08:00",
+    "duration": 600,
+    "category": "personal",
+    "description": "Kerala's harvest festival"
+  },
+  {
+    "id": "27",
+    "title": "Durga Puja",
+    "date": "2025-09-29",
+    "startTime": "06:00",
+    "duration": 720,
+    "category": "personal",
+    "description": "Hindu festival celebrating Goddess Durga"
+  },
+  {
+    "id": "28",
+    "title": "Navratri Begins",
+    "date": "2025-09-22",
+    "startTime": "18:00",
+    "duration": 120,
+    "category": "personal",
+    "description": "Nine-day Hindu festival honoring the divine feminine"
+  },
+  {
+    "id": "29",
+    "title": "Kali Puja",
+    "date": "2025-10-31",
+    "startTime": "20:00",
+    "duration": 240,
+    "category": "personal",
+    "description": "Hindu festival dedicated to Goddess Kali"
+  },
+  {
+    "id": "30",
+    "title": "Chhath Puja",
+    "date": "2025-11-07",
+    "startTime": "05:00",
+    "duration": 480,
+    "category": "personal",
+    "description": "Hindu festival dedicated to the Sun God"
+  },
+  {
+    "id": "31",
+    "title": "Pongal",
+    "date": "2025-01-15",
+    "startTime": "06:00",
+    "duration": 480,
+    "category": "personal",
+    "description": "Tamil harvest festival"
+  },
+  {
+    "id": "32",
+    "title": "Ugadi",
+    "date": "2025-03-30",
+    "startTime": "06:00",
+    "duration": 360,
+    "category": "personal",
+    "description": "Telugu and Kannada New Year"
+  },
+  {
+    "id": "33",
+    "title": "Baisakhi",
+    "date": "2025-04-13",
+    "startTime": "06:00",
+    "duration": 720,
+    "category": "personal",
+    "description": "Sikh New Year and harvest festival"
+  },
+  {
+    "id": "34",
+    "title": "Akshaya Tritiya",
+    "date": "2025-04-30",
+    "startTime": "10:00",
+    "duration": 240,
+    "category": "personal",
+    "description": "Hindu and Jain festival considered auspicious for new beginnings"
+  },
+  {
+    "id": "35",
+    "title": "Mahavir Jayanti",
+    "date": "2025-04-10",
+    "startTime": "06:00",
+    "duration": 480,
+    "category": "personal",
+    "description": "Jain festival celebrating the birth of Lord Mahavira"
+  },
+  {
+    "id": "2024-1",
+    "title": "New Year's Day",
+    "date": "2024-01-01",
+    "startTime": "00:00",
+    "duration": 1440,
+    "category": "personal",
+    "description": "New Year celebration"
+  },
+  {
+    "id": "2024-2",
+    "title": "Makar Sankranti",
+    "date": "2024-01-15",
+    "startTime": "06:00",
+    "duration": 720,
+    "category": "personal",
+    "description": "Hindu festival marking the transition of the sun into Capricorn"
+  },
+  {
+    "id": "2024-3",
+    "title": "Republic Day",
+    "date": "2024-01-26",
+    "startTime": "00:00",
+    "duration": 1440,
+    "category": "meeting",
+    "description": "National holiday celebrating the adoption of the Indian Constitution"
+  },
+  {
+    "id": "2024-4",
+    "title": "Vasant Panchami",
+    "date": "2024-02-14",
+    "startTime": "09:00",
+    "duration": 480,
+    "category": "personal",
+    "description": "Hindu festival dedicated to Goddess Saraswati"
+  },
+  {
+    "id": "2024-5",
+    "title": "Maha Shivratri",
+    "date": "2024-03-08",
+    "startTime": "18:00",
+    "duration": 720,
+    "category": "personal",
+    "description": "Hindu festival dedicated to Lord Shiva"
+  },
+  {
+    "id": "2024-6",
+    "title": "Holi",
+    "date": "2024-03-25",
+    "startTime": "10:00",
+    "duration": 480,
+    "category": "personal",
+    "description": "Festival of colors and spring"
+  },
+  {
+    "id": "2024-7",
+    "title": "Good Friday",
+    "date": "2024-03-29",
+    "startTime": "09:00",
+    "duration": 360,
+    "category": "personal",
+    "description": "Christian observance of the crucifixion of Jesus"
+  },
+  {
+    "id": "2024-8",
+    "title": "Ram Navami",
+    "date": "2024-04-17",
+    "startTime": "06:00",
+    "duration": 720,
+    "category": "personal",
+    "description": "Hindu festival celebrating the birth of Lord Rama"
+  },
+  {
+    "id": "2024-9",
+    "title": "Eid ul-Fitr",
+    "date": "2024-04-11",
+    "startTime": "06:00",
+    "duration": 720,
+    "category": "personal",
+    "description": "Islamic festival marking the end of Ramadan"
+  },
+  {
+    "id": "2024-10",
+    "title": "Buddha Purnima",
+    "date": "2024-05-23",
+    "startTime": "06:00",
+    "duration": 480,
+    "category": "personal",
+    "description": "Buddhist festival celebrating Buddha's birth, enlightenment, and death"
+  },
+  {
+    "id": "2024-11",
+    "title": "Independence Day",
+    "date": "2024-08-15",
+    "startTime": "00:00",
+    "duration": 1440,
+    "category": "meeting",
+    "description": "National holiday celebrating India's independence from British rule"
+  },
+  {
+    "id": "2024-12",
+    "title": "Raksha Bandhan",
+    "date": "2024-08-19",
+    "startTime": "10:00",
+    "duration": 240,
+    "category": "personal",
+    "description": "Hindu festival celebrating the bond between brothers and sisters"
+  },
+  {
+    "id": "2024-13",
+    "title": "Janmashtami",
+    "date": "2024-08-26",
+    "startTime": "00:00",
+    "duration": 1440,
+    "category": "personal",
+    "description": "Hindu festival celebrating the birth of Lord Krishna"
+  },
+  {
+    "id": "2024-14",
+    "title": "Ganesh Chaturthi",
+    "date": "2024-09-07",
+    "startTime": "06:00",
+    "duration": 480,
+    "category": "personal",
+    "description": "Hindu festival celebrating Lord Ganesha"
+  },
+  {
+    "id": "2024-15",
+    "title": "Gandhi Jayanti",
+    "date": "2024-10-02",
+    "startTime": "00:00",
+    "duration": 1440,
+    "category": "meeting",
+    "description": "National holiday celebrating Mahatma Gandhi's birthday"
+  },
+  {
+    "id": "2024-16",
+    "title": "Dussehra",
+    "date": "2024-10-12",
+    "startTime": "16:00",
+    "duration": 240,
+    "category": "personal",
+    "description": "Hindu festival celebrating the victory of good over evil"
+  },
+  {
+    "id": "2024-17",
+    "title": "Diwali",
+    "date": "2024-11-01",
+    "startTime": "18:00",
+    "duration": 360,
+    "category": "personal",
+    "description": "Festival of lights - most important Hindu festival"
+  },
+  {
+    "id": "2024-18",
+    "title": "Christmas",
+    "date": "2024-12-25",
+    "startTime": "00:00",
+    "duration": 1440,
+    "category": "personal",
+    "description": "Christian festival celebrating the birth of Jesus Christ"
+  },
+  {
+    "id": "2026-1",
+    "title": "New Year's Day",
+    "date": "2026-01-01",
+    "startTime": "00:00",
+    "duration": 1440,
+    "category": "personal",
+    "description": "New Year celebration"
+  },
+  {
+    "id": "2026-2",
+    "title": "Makar Sankranti",
+    "date": "2026-01-14",
+    "startTime": "06:00",
+    "duration": 720,
+    "category": "personal",
+    "description": "Hindu festival marking the transition of the sun into Capricorn"
+  },
+  {
+    "id": "2026-3",
+    "title": "Republic Day",
+    "date": "2026-01-26",
+    "startTime": "00:00",
+    "duration": 1440,
+    "category": "meeting",
+    "description": "National holiday celebrating the adoption of the Indian Constitution"
+  },
+  {
+    "id": "2026-4",
+    "title": "Vasant Panchami",
+    "date": "2026-01-21",
+    "startTime": "09:00",
+    "duration": 480,
+    "category": "personal",
+    "description": "Hindu festival dedicated to Goddess Saraswati"
+  },
+  {
+    "id": "2026-5",
+    "title": "Maha Shivratri",
+    "date": "2026-02-17",
+    "startTime": "18:00",
+    "duration": 720,
+    "category": "personal",
+    "description": "Hindu festival dedicated to Lord Shiva"
+  },
+  {
+    "id": "2026-6",
+    "title": "Holi",
+    "date": "2026-03-05",
+    "startTime": "10:00",
+    "duration": 480,
+    "category": "personal",
+    "description": "Festival of colors and spring"
+  },
+  {
+    "id": "2026-7",
+    "title": "Good Friday",
+    "date": "2026-04-03",
+    "startTime": "09:00",
+    "duration": 360,
+    "category": "personal",
+    "description": "Christian observance of the crucifixion of Jesus"
+  },
+  {
+    "id": "2026-8",
+    "title": "Ram Navami",
+    "date": "2026-03-27",
+    "startTime": "06:00",
+    "duration": 720,
+    "category": "personal",
+    "description": "Hindu festival celebrating the birth of Lord Rama"
+  },
+  {
+    "id": "2026-9",
+    "title": "Eid ul-Fitr",
+    "date": "2026-03-21",
+    "startTime": "06:00",
+    "duration": 720,
+    "category": "personal",
+    "description": "Islamic festival marking the end of Ramadan"
+  },
+  {
+    "id": "2026-10",
+    "title": "Buddha Purnima",
+    "date": "2026-05-01",
+    "startTime": "06:00",
+    "duration": 480,
+    "category": "personal",
+    "description": "Buddhist festival celebrating Buddha's birth, enlightenment, and death"
+  },
+  {
+    "id": "2026-11",
+    "title": "Independence Day",
+    "date": "2026-08-15",
+    "startTime": "00:00",
+    "duration": 1440,
+    "category": "meeting",
+    "description": "National holiday celebrating India's independence from British rule"
+  },
+  {
+    "id": "2026-12",
+    "title": "Raksha Bandhan",
+    "date": "2026-08-28",
+    "startTime": "10:00",
+    "duration": 240,
+    "category": "personal",
+    "description": "Hindu festival celebrating the bond between brothers and sisters"
+  },
+  {
+    "id": "2026-13",
+    "title": "Janmashtami",
+    "date": "2026-09-04",
+    "startTime": "00:00",
+    "duration": 1440,
+    "category": "personal",
+    "description": "Hindu festival celebrating the birth of Lord Krishna"
+  },
+  {
+    "id": "2026-14",
+    "title": "Ganesh Chaturthi",
+    "date": "2026-08-17",
+    "startTime": "06:00",
+    "duration": 480,
+    "category": "personal",
+    "description": "Hindu festival celebrating Lord Ganesha"
+  },
+  {
+    "id": "2026-15",
+    "title": "Gandhi Jayanti",
+    "date": "2026-10-02",
+    "startTime": "00:00",
+    "duration": 1440,
+    "category": "meeting",
+    "description": "National holiday celebrating Mahatma Gandhi's birthday"
+  },
+  {
+    "id": "2026-16",
+    "title": "Dussehra",
+    "date": "2026-10-21",
+    "startTime": "16:00",
+    "duration": 240,
+    "category": "personal",
+    "description": "Hindu festival celebrating the victory of good over evil"
+  },
+  {
+    "id": "2026-17",
+    "title": "Diwali",
+    "date": "2026-11-19",
+    "startTime": "18:00",
+    "duration": 360,
+    "category": "personal",
+    "description": "Festival of lights - most important Hindu festival"
+  },
+  {
+    "id": "2026-18",
+    "title": "Christmas",
+    "date": "2026-12-25",
+    "startTime": "00:00",
+    "duration": 1440,
+    "category": "personal",
+    "description": "Christian festival celebrating the birth of Jesus Christ"
+  },
+  {
+    "id": "2027-1",
+    "title": "New Year's Day",
+    "date": "2027-01-01",
+    "startTime": "00:00",
+    "duration": 1440,
+    "category": "personal",
+    "description": "New Year celebration"
+  },
+  {
+    "id": "2027-2",
+    "title": "Makar Sankranti",
+    "date": "2027-01-14",
+    "startTime": "06:00",
+    "duration": 720,
+    "category": "personal",
+    "description": "Hindu festival marking the transition of the sun into Capricorn"
+  },
+  {
+    "id": "2027-3",
+    "title": "Republic Day",
+    "date": "2027-01-26",
+    "startTime": "00:00",
+    "duration": 1440,
+    "category": "meeting",
+    "description": "National holiday celebrating the adoption of the Indian Constitution"
+  },
+  {
+    "id": "2027-4",
+    "title": "Vasant Panchami",
+    "date": "2027-02-09",
+    "startTime": "09:00",
+    "duration": 480,
+    "category": "personal",
+    "description": "Hindu festival dedicated to Goddess Saraswati"
+  },
+  {
+    "id": "2027-5",
+    "title": "Maha Shivratri",
+    "date": "2027-03-07",
+    "startTime": "18:00",
+    "duration": 720,
+    "category": "personal",
+    "description": "Hindu festival dedicated to Lord Shiva"
+  },
+  {
+    "id": "2027-6",
+    "title": "Holi",
+    "date": "2027-03-22",
+    "startTime": "10:00",
+    "duration": 480,
+    "category": "personal",
+    "description": "Festival of colors and spring"
+  },
+  {
+    "id": "2027-7",
+    "title": "Good Friday",
+    "date": "2027-03-26",
+    "startTime": "09:00",
+    "duration": 360,
+    "category": "personal",
+    "description": "Christian observance of the crucifixion of Jesus"
+  },
+  {
+    "id": "2027-8",
+    "title": "Ram Navami",
+    "date": "2027-04-15",
+    "startTime": "06:00",
+    "duration": 720,
+    "category": "personal",
+    "description": "Hindu festival celebrating the birth of Lord Rama"
+  },
+  {
+    "id": "2027-9",
+    "title": "Eid ul-Fitr",
+    "date": "2027-03-10",
+    "startTime": "06:00",
+    "duration": 720,
+    "category": "personal",
+    "description": "Islamic festival marking the end of Ramadan"
+  },
+  {
+    "id": "2027-10",
+    "title": "Buddha Purnima",
+    "date": "2027-05-20",
+    "startTime": "06:00",
+    "duration": 480,
+    "category": "personal",
+    "description": "Buddhist festival celebrating Buddha's birth, enlightenment, and death"
+  },
+  {
+    "id": "2027-11",
+    "title": "Independence Day",
+    "date": "2027-08-15",
+    "startTime": "00:00",
+    "duration": 1440,
+    "category": "meeting",
+    "description": "National holiday celebrating India's independence from British rule"
+  },
+  {
+    "id": "2027-12",
+    "title": "Raksha Bandhan",
+    "date": "2027-08-17",
+    "startTime": "10:00",
+    "duration": 240,
+    "category": "personal",
+    "description": "Hindu festival celebrating the bond between brothers and sisters"
+  },
+  {
+    "id": "2027-13",
+    "title": "Janmashtami",
+    "date": "2027-08-25",
+    "startTime": "00:00",
+    "duration": 1440,
+    "category": "personal",
+    "description": "Hindu festival celebrating the birth of Lord Krishna"
+  },
+  {
+    "id": "2027-14",
+    "title": "Ganesh Chaturthi",
+    "date": "2027-09-06",
+    "startTime": "06:00",
+    "duration": 480,
+    "category": "personal",
+    "description": "Hindu festival celebrating Lord Ganesha"
+  },
+  {
+    "id": "2027-15",
+    "title": "Gandhi Jayanti",
+    "date": "2027-10-02",
+    "startTime": "00:00",
+    "duration": 1440,
+    "category": "meeting",
+    "description": "National holiday celebrating Mahatma Gandhi's birthday"
+  },
+  {
+    "id": "2027-16",
+    "title": "Dussehra",
+    "date": "2027-10-11",
+    "startTime": "16:00",
+    "duration": 240,
+    "category": "personal",
+    "description": "Hindu festival celebrating the victory of good over evil"
+  },
+  {
+    "id": "2027-17",
+    "title": "Diwali",
+    "date": "2027-11-08",
+    "startTime": "18:00",
+    "duration": 360,
+    "category": "personal",
+    "description": "Festival of lights - most important Hindu festival"
+  },
+  {
+    "id": "2027-18",
+    "title": "Christmas",
+    "date": "2027-12-25",
+    "startTime": "00:00",
+    "duration": 1440,
+    "category": "personal",
+    "description": "Christian festival celebrating the birth of Jesus Christ"
+  },
+  {
+    "id": "2028-1",
+    "title": "New Year's Day",
+    "date": "2028-01-01",
+    "startTime": "00:00",
+    "duration": 1440,
+    "category": "personal",
+    "description": "New Year celebration"
+  },
+  {
+    "id": "2028-2",
+    "title": "Makar Sankranti",
+    "date": "2028-01-14",
+    "startTime": "06:00",
+    "duration": 720,
+    "category": "personal",
+    "description": "Hindu festival marking the transition of the sun into Capricorn"
+  },
+  {
+    "id": "2028-3",
+    "title": "Republic Day",
+    "date": "2028-01-26",
+    "startTime": "00:00",
+    "duration": 1440,
+    "category": "meeting",
+    "description": "National holiday celebrating the adoption of the Indian Constitution"
+  },
+  {
+    "id": "2028-4",
+    "title": "Vasant Panchami",
+    "date": "2028-01-29",
+    "startTime": "09:00",
+    "duration": 480,
+    "category": "personal",
+    "description": "Hindu festival dedicated to Goddess Saraswati"
+  },
+  {
+    "id": "2028-5",
+    "title": "Maha Shivratri",
+    "date": "2028-02-24",
+    "startTime": "18:00",
+    "duration": 720,
+    "category": "personal",
+    "description": "Hindu festival dedicated to Lord Shiva"
+  },
+  {
+    "id": "2028-6",
+    "title": "Holi",
+    "date": "2028-03-11",
+    "startTime": "10:00",
+    "duration": 480,
+    "category": "personal",
+    "description": "Festival of colors and spring"
+  },
+  {
+    "id": "2028-7",
+    "title": "Good Friday",
+    "date": "2028-04-14",
+    "startTime": "09:00",
+    "duration": 360,
+    "category": "personal",
+    "description": "Christian observance of the crucifixion of Jesus"
+  },
+  {
+    "id": "2028-8",
+    "title": "Ram Navami",
+    "date": "2028-04-03",
+    "startTime": "06:00",
+    "duration": 720,
+    "category": "personal",
+    "description": "Hindu festival celebrating the birth of Lord Rama"
+  },
+  {
+    "id": "2028-9",
+    "title": "Eid ul-Fitr",
+    "date": "2028-02-26",
+    "startTime": "06:00",
+    "duration": 720,
+    "category": "personal",
+    "description": "Islamic festival marking the end of Ramadan"
+  },
+  {
+    "id": "2028-10",
+    "title": "Buddha Purnima",
+    "date": "2028-05-09",
+    "startTime": "06:00",
+    "duration": 480,
+    "category": "personal",
+    "description": "Buddhist festival celebrating Buddha's birth, enlightenment, and death"
+  },
+  {
+    "id": "2028-11",
+    "title": "Independence Day",
+    "date": "2028-08-15",
+    "startTime": "00:00",
+    "duration": 1440,
+    "category": "meeting",
+    "description": "National holiday celebrating India's independence from British rule"
+  },
+  {
+    "id": "2028-12",
+    "title": "Raksha Bandhan",
+    "date": "2028-08-05",
+    "startTime": "10:00",
+    "duration": 240,
+    "category": "personal",
+    "description": "Hindu festival celebrating the bond between brothers and sisters"
+  },
+  {
+    "id": "2028-13",
+    "title": "Janmashtami",
+    "date": "2028-08-13",
+    "startTime": "00:00",
+    "duration": 1440,
+    "category": "personal",
+    "description": "Hindu festival celebrating the birth of Lord Krishna"
+  },
+  {
+    "id": "2028-14",
+    "title": "Ganesh Chaturthi",
+    "date": "2028-08-25",
+    "startTime": "06:00",
+    "duration": 480,
+    "category": "personal",
+    "description": "Hindu festival celebrating Lord Ganesha"
+  },
+  {
+    "id": "2028-15",
+    "title": "Gandhi Jayanti",
+    "date": "2028-10-02",
+    "startTime": "00:00",
+    "duration": 1440,
+    "category": "meeting",
+    "description": "National holiday celebrating Mahatma Gandhi's birthday"
+  },
+  {
+    "id": "2028-16",
+    "title": "Dussehra",
+    "date": "2028-09-30",
+    "startTime": "16:00",
+    "duration": 240,
+    "category": "personal",
+    "description": "Hindu festival celebrating the victory of good over evil"
+  },
+  {
+    "id": "2028-17",
+    "title": "Diwali",
+    "date": "2028-10-28",
+    "startTime": "18:00",
+    "duration": 360,
+    "category": "personal",
+    "description": "Festival of lights - most important Hindu festival"
+  },
+  {
+    "id": "2028-18",
+    "title": "Christmas",
+    "date": "2028-12-25",
+    "startTime": "00:00",
+    "duration": 1440,
+    "category": "personal",
+    "description": "Christian festival celebrating the birth of Jesus Christ"
+  },
+  {
+    "id": "2029-1",
+    "title": "New Year's Day",
+    "date": "2029-01-01",
+    "startTime": "00:00",
+    "duration": 1440,
+    "category": "personal",
+    "description": "New Year celebration"
+  },
+  {
+    "id": "2029-2",
+    "title": "Makar Sankranti",
+    "date": "2029-01-14",
+    "startTime": "06:00",
+    "duration": 720,
+    "category": "personal",
+    "description": "Hindu festival marking the transition of the sun into Capricorn"
+  },
+  {
+    "id": "2029-3",
+    "title": "Republic Day",
+    "date": "2029-01-26",
+    "startTime": "00:00",
+    "duration": 1440,
+    "category": "meeting",
+    "description": "National holiday celebrating the adoption of the Indian Constitution"
+  },
+  {
+    "id": "2029-4",
+    "title": "Vasant Panchami",
+    "date": "2029-02-17",
+    "startTime": "09:00",
+    "duration": 480,
+    "category": "personal",
+    "description": "Hindu festival dedicated to Goddess Saraswati"
+  },
+  {
+    "id": "2029-5",
+    "title": "Maha Shivratri",
+    "date": "2029-03-13",
+    "startTime": "18:00",
+    "duration": 720,
+    "category": "personal",
+    "description": "Hindu festival dedicated to Lord Shiva"
+  },
+  {
+    "id": "2029-6",
+    "title": "Holi",
+    "date": "2029-03-30",
+    "startTime": "10:00",
+    "duration": 480,
+    "category": "personal",
+    "description": "Festival of colors and spring"
+  },
+  {
+    "id": "2029-7",
+    "title": "Good Friday",
+    "date": "2029-03-30",
+    "startTime": "09:00",
+    "duration": 360,
+    "category": "personal",
+    "description": "Christian observance of the crucifixion of Jesus"
+  },
+  {
+    "id": "2029-8",
+    "title": "Ram Navami",
+    "date": "2029-04-22",
+    "startTime": "06:00",
+    "duration": 720,
+    "category": "personal",
+    "description": "Hindu festival celebrating the birth of Lord Rama"
+  },
+  {
+    "id": "2029-9",
+    "title": "Eid ul-Fitr",
+    "date": "2029-02-14",
+    "startTime": "06:00",
+    "duration": 720,
+    "category": "personal",
+    "description": "Islamic festival marking the end of Ramadan"
+  },
+  {
+    "id": "2029-10",
+    "title": "Buddha Purnima",
+    "date": "2029-05-27",
+    "startTime": "06:00",
+    "duration": 480,
+    "category": "personal",
+    "description": "Buddhist festival celebrating Buddha's birth, enlightenment, and death"
+  },
+  {
+    "id": "2029-11",
+    "title": "Independence Day",
+    "date": "2029-08-15",
+    "startTime": "00:00",
+    "duration": 1440,
+    "category": "meeting",
+    "description": "National holiday celebrating India's independence from British rule"
+  },
+  {
+    "id": "2029-12",
+    "title": "Raksha Bandhan",
+    "date": "2029-08-26",
+    "startTime": "10:00",
+    "duration": 240,
+    "category": "personal",
+    "description": "Hindu festival celebrating the bond between brothers and sisters"
+  },
+  {
+    "id": "2029-13",
+    "title": "Janmashtami",
+    "date": "2029-09-02",
+    "startTime": "00:00",
+    "duration": 1440,
+    "category": "personal",
+    "description": "Hindu festival celebrating the birth of Lord Krishna"
+  },
+  {
+    "id": "2029-14",
+    "title": "Ganesh Chaturthi",
+    "date": "2029-09-13",
+    "startTime": "06:00",
+    "duration": 480,
+    "category": "personal",
+    "description": "Hindu festival celebrating Lord Ganesha"
+  },
+  {
+    "id": "2029-15",
+    "title": "Gandhi Jayanti",
+    "date": "2029-10-02",
+    "startTime": "00:00",
+    "duration": 1440,
+    "category": "meeting",
+    "description": "National holiday celebrating Mahatma Gandhi's birthday"
+  },
+  {
+    "id": "2029-16",
+    "title": "Dussehra",
+    "date": "2029-10-19",
+    "startTime": "16:00",
+    "duration": 240,
+    "category": "personal",
+    "description": "Hindu festival celebrating the victory of good over evil"
+  },
+  {
+    "id": "2029-17",
+    "title": "Diwali",
+    "date": "2029-11-16",
+    "startTime": "18:00",
+    "duration": 360,
+    "category": "personal",
+    "description": "Festival of lights - most important Hindu festival"
+  },
+  {
+    "id": "2029-18",
+    "title": "Christmas",
+    "date": "2029-12-25",
+    "startTime": "00:00",
+    "duration": 1440,
+    "category": "personal",
+    "description": "Christian festival celebrating the birth of Jesus Christ"
+  },
+  {
+    "id": "2030-1",
+    "title": "New Year's Day",
+    "date": "2030-01-01",
+    "startTime": "00:00",
+    "duration": 1440,
+    "category": "personal",
+    "description": "New Year celebration"
+  },
+  {
+    "id": "2030-2",
+    "title": "Makar Sankranti",
+    "date": "2030-01-14",
+    "startTime": "06:00",
+    "duration": 720,
+    "category": "personal",
+    "description": "Hindu festival marking the transition of the sun into Capricorn"
+  },
+  {
+    "id": "2030-3",
+    "title": "Republic Day",
+    "date": "2030-01-26",
+    "startTime": "00:00",
+    "duration": 1440,
+    "category": "meeting",
+    "description": "National holiday celebrating the adoption of the Indian Constitution"
+  },
+  {
+    "id": "2030-4",
+    "title": "Vasant Panchami",
+    "date": "2030-02-05",
+    "startTime": "09:00",
+    "duration": 480,
+    "category": "personal",
+    "description": "Hindu festival dedicated to Goddess Saraswati"
+  },
+  {
+    "id": "2030-5",
+    "title": "Maha Shivratri",
+    "date": "2030-03-04",
+    "startTime": "18:00",
+    "duration": 720,
+    "category": "personal",
+    "description": "Hindu festival dedicated to Lord Shiva"
+  },
+  {
+    "id": "2030-6",
+    "title": "Holi",
+    "date": "2030-03-20",
+    "startTime": "10:00",
+    "duration": 480,
+    "category": "personal",
+    "description": "Festival of colors and spring"
+  },
+  {
+    "id": "2030-7",
+    "title": "Good Friday",
+    "date": "2030-04-19",
+    "startTime": "09:00",
+    "duration": 360,
+    "category": "personal",
+    "description": "Christian observance of the crucifixion of Jesus"
+  },
+  {
+    "id": "2030-8",
+    "title": "Ram Navami",
+    "date": "2030-04-11",
+    "startTime": "06:00",
+    "duration": 720,
+    "category": "personal",
+    "description": "Hindu festival celebrating the birth of Lord Rama"
+  },
+  {
+    "id": "2030-9",
+    "title": "Eid ul-Fitr",
+    "date": "2030-02-05",
+    "startTime": "06:00",
+    "duration": 720,
+    "category": "personal",
+    "description": "Islamic festival marking the end of Ramadan"
+  },
+  {
+    "id": "2030-10",
+    "title": "Buddha Purnima",
+    "date": "2030-05-16",
+    "startTime": "06:00",
+    "duration": 480,
+    "category": "personal",
+    "description": "Buddhist festival celebrating Buddha's birth, enlightenment, and death"
+  },
+  {
+    "id": "2030-11",
+    "title": "Independence Day",
+    "date": "2030-08-15",
+    "startTime": "00:00",
+    "duration": 1440,
+    "category": "meeting",
+    "description": "National holiday celebrating India's independence from British rule"
+  },
+  {
+    "id": "2030-12",
+    "title": "Raksha Bandhan",
+    "date": "2030-08-15",
+    "startTime": "10:00",
+    "duration": 240,
+    "category": "personal",
+    "description": "Hindu festival celebrating the bond between brothers and sisters"
+  },
+  {
+    "id": "2030-13",
+    "title": "Janmashtami",
+    "date": "2030-08-23",
+    "startTime": "00:00",
+    "duration": 1440,
+    "category": "personal",
+    "description": "Hindu festival celebrating the birth of Lord Krishna"
+  },
+  {
+    "id": "2030-14",
+    "title": "Ganesh Chaturthi",
+    "date": "2030-09-02",
+    "startTime": "06:00",
+    "duration": 480,
+    "category": "personal",
+    "description": "Hindu festival celebrating Lord Ganesha"
+  },
+  {
+    "id": "2030-15",
+    "title": "Gandhi Jayanti",
+    "date": "2030-10-02",
+    "startTime": "00:00",
+    "duration": 1440,
+    "category": "meeting",
+    "description": "National holiday celebrating Mahatma Gandhi's birthday"
+  },
+  {
+    "id": "2030-16",
+    "title": "Dussehra",
+    "date": "2030-10-07",
+    "startTime": "16:00",
+    "duration": 240,
+    "category": "personal",
+    "description": "Hindu festival celebrating the victory of good over evil"
+  },
+  {
+    "id": "2030-17",
+    "title": "Diwali",
+    "date": "2030-11-05",
+    "startTime": "18:00",
+    "duration": 360,
+    "category": "personal",
+    "description": "Festival of lights - most important Hindu festival"
+  },
+  {
+    "id": "2030-18",
+    "title": "Christmas",
+    "date": "2030-12-25",
+    "startTime": "00:00",
+    "duration": 1440,
+    "category": "personal",
+    "description": "Christian festival celebrating the birth of Jesus Christ"
+  },
+  {
+    "id": "2031-1",
+    "title": "New Year's Day",
+    "date": "2031-01-01",
+    "startTime": "00:00",
+    "duration": 1440,
+    "category": "personal",
+    "description": "New Year celebration"
+  },
+  {
+    "id": "2031-2",
+    "title": "Makar Sankranti",
+    "date": "2031-01-14",
+    "startTime": "06:00",
+    "duration": 720,
+    "category": "personal",
+    "description": "Hindu festival marking the transition of the sun into Capricorn"
+  },
+  {
+    "id": "2031-3",
+    "title": "Republic Day",
+    "date": "2031-01-26",
+    "startTime": "00:00",
+    "duration": 1440,
+    "category": "meeting",
+    "description": "National holiday celebrating the adoption of the Indian Constitution"
+  },
+  {
+    "id": "2031-4",
+    "title": "Vasant Panchami",
+    "date": "2031-01-25",
+    "startTime": "09:00",
+    "duration": 480,
+    "category": "personal",
+    "description": "Hindu festival dedicated to Goddess Saraswati"
+  },
+  {
+    "id": "2031-5",
+    "title": "Maha Shivratri",
+    "date": "2031-02-21",
+    "startTime": "18:00",
+    "duration": 720,
+    "category": "personal",
+    "description": "Hindu festival dedicated to Lord Shiva"
+  },
+  {
+    "id": "2031-6",
+    "title": "Holi",
+    "date": "2031-03-09",
+    "startTime": "10:00",
+    "duration": 480,
+    "category": "personal",
+    "description": "Festival of colors and spring"
+  },
+  {
+    "id": "2031-7",
+    "title": "Good Friday",
+    "date": "2031-04-11",
+    "startTime": "09:00",
+    "duration": 360,
+    "category": "personal",
+    "description": "Christian observance of the crucifixion of Jesus"
+  },
+  {
+    "id": "2031-8",
+    "title": "Ram Navami",
+    "date": "2031-04-01",
+    "startTime": "06:00",
+    "duration": 720,
+    "category": "personal",
+    "description": "Hindu festival celebrating the birth of Lord Rama"
+  },
+  {
+    "id": "2031-9",
+    "title": "Eid ul-Fitr",
+    "date": "2031-01-25",
+    "startTime": "06:00",
+    "duration": 720,
+    "category": "personal",
+    "description": "Islamic festival marking the end of Ramadan"
+  },
+  {
+    "id": "2031-10",
+    "title": "Buddha Purnima",
+    "date": "2031-05-05",
+    "startTime": "06:00",
+    "duration": 480,
+    "category": "personal",
+    "description": "Buddhist festival celebrating Buddha's birth, enlightenment, and death"
+  },
+  {
+    "id": "2031-11",
+    "title": "Independence Day",
+    "date": "2031-08-15",
+    "startTime": "00:00",
+    "duration": 1440,
+    "category": "meeting",
+    "description": "National holiday celebrating India's independence from British rule"
+  },
+  {
+    "id": "2031-12",
+    "title": "Raksha Bandhan",
+    "date": "2031-08-04",
+    "startTime": "10:00",
+    "duration": 240,
+    "category": "personal",
+    "description": "Hindu festival celebrating the bond between brothers and sisters"
+  },
+  {
+    "id": "2031-13",
+    "title": "Janmashtami",
+    "date": "2031-08-12",
+    "startTime": "00:00",
+    "duration": 1440,
+    "category": "personal",
+    "description": "Hindu festival celebrating the birth of Lord Krishna"
+  },
+  {
+    "id": "2031-14",
+    "title": "Ganesh Chaturthi",
+    "date": "2031-08-22",
+    "startTime": "06:00",
+    "duration": 480,
+    "category": "personal",
+    "description": "Hindu festival celebrating Lord Ganesha"
+  },
+  {
+    "id": "2031-15",
+    "title": "Gandhi Jayanti",
+    "date": "2031-10-02",
+    "startTime": "00:00",
+    "duration": 1440,
+    "category": "meeting",
+    "description": "National holiday celebrating Mahatma Gandhi's birthday"
+  },
+  {
+    "id": "2031-16",
+    "title": "Dussehra",
+    "date": "2031-09-27",
+    "startTime": "16:00",
+    "duration": 240,
+    "category": "personal",
+    "description": "Hindu festival celebrating the victory of good over evil"
+  },
+  {
+    "id": "2031-17",
+    "title": "Diwali",
+    "date": "2031-10-25",
+    "startTime": "18:00",
+    "duration": 360,
+    "category": "personal",
+    "description": "Festival of lights - most important Hindu festival"
+  },
+  {
+    "id": "2031-18",
+    "title": "Christmas",
+    "date": "2031-12-25",
+    "startTime": "00:00",
+    "duration": 1440,
+    "category": "personal",
+    "description": "Christian festival celebrating the birth of Jesus Christ"
+  },
+  {
+    "id": "2032-1",
+    "title": "New Year's Day",
+    "date": "2032-01-01",
+    "startTime": "00:00",
+    "duration": 1440,
+    "category": "personal",
+    "description": "New Year celebration"
+  },
+  {
+    "id": "2032-2",
+    "title": "Makar Sankranti",
+    "date": "2032-01-14",
+    "startTime": "06:00",
+    "duration": 720,
+    "category": "personal",
+    "description": "Hindu festival marking the transition of the sun into Capricorn"
+  },
+  {
+    "id": "2032-3",
+    "title": "Republic Day",
+    "date": "2032-01-26",
+    "startTime": "00:00",
+    "duration": 1440,
+    "category": "meeting",
+    "description": "National holiday celebrating the adoption of the Indian Constitution"
+  },
+  {
+    "id": "2032-4",
+    "title": "Vasant Panchami",
+    "date": "2032-02-13",
+    "startTime": "09:00",
+    "duration": 480,
+    "category": "personal",
+    "description": "Hindu festival dedicated to Goddess Saraswati"
+  },
+  {
+    "id": "2032-5",
+    "title": "Maha Shivratri",
+    "date": "2032-03-11",
+    "startTime": "18:00",
+    "duration": 720,
+    "category": "personal",
+    "description": "Hindu festival dedicated to Lord Shiva"
+  },
+  {
+    "id": "2032-6",
+    "title": "Holi",
+    "date": "2032-03-27",
+    "startTime": "10:00",
+    "duration": 480,
+    "category": "personal",
+    "description": "Festival of colors and spring"
+  },
+  {
+    "id": "2032-7",
+    "title": "Good Friday",
+    "date": "2032-03-26",
+    "startTime": "09:00",
+    "duration": 360,
+    "category": "personal",
+    "description": "Christian observance of the crucifixion of Jesus"
+  },
+  {
+    "id": "2032-8",
+    "title": "Ram Navami",
+    "date": "2032-04-19",
+    "startTime": "06:00",
+    "duration": 720,
+    "category": "personal",
+    "description": "Hindu festival celebrating the birth of Lord Rama"
+  },
+  {
+    "id": "2032-9",
+    "title": "Eid ul-Fitr",
+    "date": "2032-01-14",
+    "startTime": "06:00",
+    "duration": 720,
+    "category": "personal",
+    "description": "Islamic festival marking the end of Ramadan"
+  },
+  {
+    "id": "2032-10",
+    "title": "Buddha Purnima",
+    "date": "2032-05-23",
+    "startTime": "06:00",
+    "duration": 480,
+    "category": "personal",
+    "description": "Buddhist festival celebrating Buddha's birth, enlightenment, and death"
+  },
+  {
+    "id": "2032-11",
+    "title": "Independence Day",
+    "date": "2032-08-15",
+    "startTime": "00:00",
+    "duration": 1440,
+    "category": "meeting",
+    "description": "National holiday celebrating India's independence from British rule"
+  },
+  {
+    "id": "2032-12",
+    "title": "Raksha Bandhan",
+    "date": "2032-08-22",
+    "startTime": "10:00",
+    "duration": 240,
+    "category": "personal",
+    "description": "Hindu festival celebrating the bond between brothers and sisters"
+  },
+  {
+    "id": "2032-13",
+    "title": "Janmashtami",
+    "date": "2032-08-30",
+    "startTime": "00:00",
+    "duration": 1440,
+    "category": "personal",
+    "description": "Hindu festival celebrating the birth of Lord Krishna"
+  },
+  {
+    "id": "2032-14",
+    "title": "Ganesh Chaturthi",
+    "date": "2032-09-09",
+    "startTime": "06:00",
+    "duration": 480,
+    "category": "personal",
+    "description": "Hindu festival celebrating Lord Ganesha"
+  },
+  {
+    "id": "2032-15",
+    "title": "Gandhi Jayanti",
+    "date": "2032-10-02",
+    "startTime": "00:00",
+    "duration": 1440,
+    "category": "meeting",
+    "description": "National holiday celebrating Mahatma Gandhi's birthday"
+  },
+  {
+    "id": "2032-16",
+    "title": "Dussehra",
+    "date": "2032-10-15",
+    "startTime": "16:00",
+    "duration": 240,
+    "category": "personal",
+    "description": "Hindu festival celebrating the victory of good over evil"
+  },
+  {
+    "id": "2032-17",
+    "title": "Diwali",
+    "date": "2032-11-12",
+    "startTime": "18:00",
+    "duration": 360,
+    "category": "personal",
+    "description": "Festival of lights - most important Hindu festival"
+  },
+  {
+    "id": "2032-18",
+    "title": "Christmas",
+    "date": "2032-12-25",
+    "startTime": "00:00",
+    "duration": 1440,
+    "category": "personal",
+    "description": "Christian festival celebrating the birth of Jesus Christ"
+  },
+  {
+    "id": "2033-1",
+    "title": "New Year's Day",
+    "date": "2033-01-01",
+    "startTime": "00:00",
+    "duration": 1440,
+    "category": "personal",
+    "description": "New Year celebration"
+  },
+  {
+    "id": "2033-2",
+    "title": "Makar Sankranti",
+    "date": "2033-01-14",
+    "startTime": "06:00",
+    "duration": 720,
+    "category": "personal",
+    "description": "Hindu festival marking the transition of the sun into Capricorn"
+  },
+  {
+    "id": "2033-3",
+    "title": "Republic Day",
+    "date": "2033-01-26",
+    "startTime": "00:00",
+    "duration": 1440,
+    "category": "meeting",
+    "description": "National holiday celebrating the adoption of the Indian Constitution"
+  },
+  {
+    "id": "2033-4",
+    "title": "Vasant Panchami",
+    "date": "2033-02-02",
+    "startTime": "09:00",
+    "duration": 480,
+    "category": "personal",
+    "description": "Hindu festival dedicated to Goddess Saraswati"
+  },
+  {
+    "id": "2033-5",
+    "title": "Maha Shivratri",
+    "date": "2033-02-28",
+    "startTime": "18:00",
+    "duration": 720,
+    "category": "personal",
+    "description": "Hindu festival dedicated to Lord Shiva"
+  },
+  {
+    "id": "2033-6",
+    "title": "Holi",
+    "date": "2033-03-16",
+    "startTime": "10:00",
+    "duration": 480,
+    "category": "personal",
+    "description": "Festival of colors and spring"
+  },
+  {
+    "id": "2033-7",
+    "title": "Good Friday",
+    "date": "2033-04-15",
+    "startTime": "09:00",
+    "duration": 360,
+    "category": "personal",
+    "description": "Christian observance of the crucifixion of Jesus"
+  },
+  {
+    "id": "2033-8",
+    "title": "Ram Navami",
+    "date": "2033-04-08",
+    "startTime": "06:00",
+    "duration": 720,
+    "category": "personal",
+    "description": "Hindu festival celebrating the birth of Lord Rama"
+  },
+  {
+    "id": "2033-9",
+    "title": "Eid ul-Fitr",
+    "date": "2033-01-03",
+    "startTime": "06:00",
+    "duration": 720,
+    "category": "personal",
+    "description": "Islamic festival marking the end of Ramadan"
+  },
+  {
+    "id": "2033-10",
+    "title": "Buddha Purnima",
+    "date": "2033-05-12",
+    "startTime": "06:00",
+    "duration": 480,
+    "category": "personal",
+    "description": "Buddhist festival celebrating Buddha's birth, enlightenment, and death"
+  },
+  {
+    "id": "2033-11",
+    "title": "Independence Day",
+    "date": "2033-08-15",
+    "startTime": "00:00",
+    "duration": 1440,
+    "category": "meeting",
+    "description": "National holiday celebrating India's independence from British rule"
+  },
+  {
+    "id": "2033-12",
+    "title": "Raksha Bandhan",
+    "date": "2033-08-11",
+    "startTime": "10:00",
+    "duration": 240,
+    "category": "personal",
+    "description": "Hindu festival celebrating the bond between brothers and sisters"
+  },
+  {
+    "id": "2033-13",
+    "title": "Janmashtami",
+    "date": "2033-08-19",
+    "startTime": "00:00",
+    "duration": 1440,
+    "category": "personal",
+    "description": "Hindu festival celebrating the birth of Lord Krishna"
+  },
+  {
+    "id": "2033-14",
+    "title": "Ganesh Chaturthi",
+    "date": "2033-08-30",
+    "startTime": "06:00",
+    "duration": 480,
+    "category": "personal",
+    "description": "Hindu festival celebrating Lord Ganesha"
+  },
+  {
+    "id": "2033-15",
+    "title": "Gandhi Jayanti",
+    "date": "2033-10-02",
+    "startTime": "00:00",
+    "duration": 1440,
+    "category": "meeting",
+    "description": "National holiday celebrating Mahatma Gandhi's birthday"
+  },
+  {
+    "id": "2033-16",
+    "title": "Dussehra",
+    "date": "2033-10-04",
+    "startTime": "16:00",
+    "duration": 240,
+    "category": "personal",
+    "description": "Hindu festival celebrating the victory of good over evil"
+  },
+  {
+    "id": "2033-17",
+    "title": "Diwali",
+    "date": "2033-11-02",
+    "startTime": "18:00",
+    "duration": 360,
+    "category": "personal",
+    "description": "Festival of lights - most important Hindu festival"
+  },
+  {
+    "id": "2033-18",
+    "title": "Christmas",
+    "date": "2033-12-25",
+    "startTime": "00:00",
+    "duration": 1440,
+    "category": "personal",
+    "description": "Christian festival celebrating the birth of Jesus Christ"
+  },
+  {
+    "id": "2034-1",
+    "title": "New Year's Day",
+    "date": "2034-01-01",
+    "startTime": "00:00",
+    "duration": 1440,
+    "category": "personal",
+    "description": "New Year celebration"
+  },
+  {
+    "id": "2034-2",
+    "title": "Makar Sankranti",
+    "date": "2034-01-14",
+    "startTime": "06:00",
+    "duration": 720,
+    "category": "personal",
+    "description": "Hindu festival marking the transition of the sun into Capricorn"
+  },
+  {
+    "id": "2034-3",
+    "title": "Republic Day",
+    "date": "2034-01-26",
+    "startTime": "00:00",
+    "duration": 1440,
+    "category": "meeting",
+    "description": "National holiday celebrating the adoption of the Indian Constitution"
+  },
+  {
+    "id": "2034-4",
+    "title": "Vasant Panchami",
+    "date": "2034-01-22",
+    "startTime": "09:00",
+    "duration": 480,
+    "category": "personal",
+    "description": "Hindu festival dedicated to Goddess Saraswati"
+  },
+  {
+    "id": "2034-5",
+    "title": "Maha Shivratri",
+    "date": "2034-02-18",
+    "startTime": "18:00",
+    "duration": 720,
+    "category": "personal",
+    "description": "Hindu festival dedicated to Lord Shiva"
+  },
+  {
+    "id": "2034-6",
+    "title": "Holi",
+    "date": "2034-03-06",
+    "startTime": "10:00",
+    "duration": 480,
+    "category": "personal",
+    "description": "Festival of colors and spring"
+  },
+  {
+    "id": "2034-7",
+    "title": "Good Friday",
+    "date": "2034-04-07",
+    "startTime": "09:00",
+    "duration": 360,
+    "category": "personal",
+    "description": "Christian observance of the crucifixion of Jesus"
+  },
+  {
+    "id": "2034-8",
+    "title": "Ram Navami",
+    "date": "2034-03-28",
+    "startTime": "06:00",
+    "duration": 720,
+    "category": "personal",
+    "description": "Hindu festival celebrating the birth of Lord Rama"
+  },
+  {
+    "id": "2034-9",
+    "title": "Eid ul-Fitr",
+    "date": "2033-12-23",
+    "startTime": "06:00",
+    "duration": 720,
+    "category": "personal",
+    "description": "Islamic festival marking the end of Ramadan"
+  },
+  {
+    "id": "2034-10",
+    "title": "Buddha Purnima",
+    "date": "2034-05-01",
+    "startTime": "06:00",
+    "duration": 480,
+    "category": "personal",
+    "description": "Buddhist festival celebrating Buddha's birth, enlightenment, and death"
+  },
+  {
+    "id": "2034-11",
+    "title": "Independence Day",
+    "date": "2034-08-15",
+    "startTime": "00:00",
+    "duration": 1440,
+    "category": "meeting",
+    "description": "National holiday celebrating India's independence from British rule"
+  },
+  {
+    "id": "2034-12",
+    "title": "Raksha Bandhan",
+    "date": "2034-08-31",
+    "startTime": "10:00",
+    "duration": 240,
+    "category": "personal",
+    "description": "Hindu festival celebrating the bond between brothers and sisters"
+  },
+  {
+    "id": "2034-13",
+    "title": "Janmashtami",
+    "date": "2034-09-08",
+    "startTime": "00:00",
+    "duration": 1440,
+    "category": "personal",
+    "description": "Hindu festival celebrating the birth of Lord Krishna"
+  },
+  {
+    "id": "2034-14",
+    "title": "Ganesh Chaturthi",
+    "date": "2034-09-19",
+    "startTime": "06:00",
+    "duration": 480,
+    "category": "personal",
+    "description": "Hindu festival celebrating Lord Ganesha"
+  },
+  {
+    "id": "2034-15",
+    "title": "Gandhi Jayanti",
+    "date": "2034-10-02",
+    "startTime": "00:00",
+    "duration": 1440,
+    "category": "meeting",
+    "description": "National holiday celebrating Mahatma Gandhi's birthday"
+  },
+  {
+    "id": "2034-16",
+    "title": "Dussehra",
+    "date": "2034-09-24",
+    "startTime": "16:00",
+    "duration": 240,
+    "category": "personal",
+    "description": "Hindu festival celebrating the victory of good over evil"
+  },
+  {
+    "id": "2034-17",
+    "title": "Diwali",
+    "date": "2034-10-22",
+    "startTime": "18:00",
+    "duration": 360,
+    "category": "personal",
+    "description": "Festival of lights - most important Hindu festival"
+  },
+  {
+    "id": "2034-18",
+    "title": "Christmas",
+    "date": "2034-12-25",
+    "startTime": "00:00",
+    "duration": 1440,
+    "category": "personal",
+    "description": "Christian festival celebrating the birth of Jesus Christ"
+  },
+  {
+    "id": "2023-1",
+    "title": "New Year's Day",
+    "date": "2023-01-01",
+    "startTime": "00:00",
+    "duration": 1440,
+    "category": "personal",
+    "description": "New Year celebration"
+  },
+  {
+    "id": "2023-2",
+    "title": "Makar Sankranti",
+    "date": "2023-01-14",
+    "startTime": "06:00",
+    "duration": 720,
+    "category": "personal",
+    "description": "Hindu festival marking the transition of the sun into Capricorn"
+  },
+  {
+    "id": "2023-3",
+    "title": "Republic Day",
+    "date": "2023-01-26",
+    "startTime": "00:00",
+    "duration": 1440,
+    "category": "meeting",
+    "description": "National holiday celebrating the adoption of the Indian Constitution"
+  },
+  {
+    "id": "2023-4",
+    "title": "Vasant Panchami",
+    "date": "2023-01-26",
+    "startTime": "09:00",
+    "duration": 480,
+    "category": "personal",
+    "description": "Hindu festival dedicated to Goddess Saraswati"
+  },
+  {
+    "id": "2023-5",
+    "title": "Maha Shivratri",
+    "date": "2023-02-18",
+    "startTime": "18:00",
+    "duration": 720,
+    "category": "personal",
+    "description": "Hindu festival dedicated to Lord Shiva"
+  },
+  {
+    "id": "2023-6",
+    "title": "Holi",
+    "date": "2023-03-08",
+    "startTime": "10:00",
+    "duration": 480,
+    "category": "personal",
+    "description": "Festival of colors and spring"
+  },
+  {
+    "id": "2023-7",
+    "title": "Good Friday",
+    "date": "2023-04-07",
+    "startTime": "09:00",
+    "duration": 360,
+    "category": "personal",
+    "description": "Christian observance of the crucifixion of Jesus"
+  },
+  {
+    "id": "2023-8",
+    "title": "Ram Navami",
+    "date": "2023-03-30",
+    "startTime": "06:00",
+    "duration": 720,
+    "category": "personal",
+    "description": "Hindu festival celebrating the birth of Lord Rama"
+  },
+  {
+    "id": "2023-9",
+    "title": "Eid ul-Fitr",
+    "date": "2023-04-22",
+    "startTime": "06:00",
+    "duration": 720,
+    "category": "personal",
+    "description": "Islamic festival marking the end of Ramadan"
+  },
+  {
+    "id": "2023-10",
+    "title": "Buddha Purnima",
+    "date": "2023-05-05",
+    "startTime": "06:00",
+    "duration": 480,
+    "category": "personal",
+    "description": "Buddhist festival celebrating Buddha's birth, enlightenment, and death"
+  },
+  {
+    "id": "2023-11",
+    "title": "Independence Day",
+    "date": "2023-08-15",
+    "startTime": "00:00",
+    "duration": 1440,
+    "category": "meeting",
+    "description": "National holiday celebrating India's independence from British rule"
+  },
+  {
+    "id": "2023-12",
+    "title": "Raksha Bandhan",
+    "date": "2023-08-30",
+    "startTime": "10:00",
+    "duration": 240,
+    "category": "personal",
+    "description": "Hindu festival celebrating the bond between brothers and sisters"
+  },
+  {
+    "id": "2023-13",
+    "title": "Janmashtami",
+    "date": "2023-09-07",
+    "startTime": "00:00",
+    "duration": 1440,
+    "category": "personal",
+    "description": "Hindu festival celebrating the birth of Lord Krishna"
+  },
+  {
+    "id": "2023-14",
+    "title": "Ganesh Chaturthi",
+    "date": "2023-09-19",
+    "startTime": "06:00",
+    "duration": 480,
+    "category": "personal",
+    "description": "Hindu festival celebrating Lord Ganesha"
+  },
+  {
+    "id": "2023-15",
+    "title": "Gandhi Jayanti",
+    "date": "2023-10-02",
+    "startTime": "00:00",
+    "duration": 1440,
+    "category": "meeting",
+    "description": "National holiday celebrating Mahatma Gandhi's birthday"
+  },
+  {
+    "id": "2023-16",
+    "title": "Dussehra",
+    "date": "2023-10-24",
+    "startTime": "16:00",
+    "duration": 240,
+    "category": "personal",
+    "description": "Hindu festival celebrating the victory of good over evil"
+  },
+  {
+    "id": "2023-17",
+    "title": "Diwali",
+    "date": "2023-11-12",
+    "startTime": "18:00",
+    "duration": 360,
+    "category": "personal",
+    "description": "Festival of lights - most important Hindu festival"
+  },
+  {
+    "id": "2023-18",
+    "title": "Christmas",
+    "date": "2023-12-25",
+    "startTime": "00:00",
+    "duration": 1440,
+    "category": "personal",
+    "description": "Christian festival celebrating the birth of Jesus Christ"
+  },
+  {
+    "id": "2022-1",
+    "title": "New Year's Day",
+    "date": "2022-01-01",
+    "startTime": "00:00",
+    "duration": 1440,
+    "category": "personal",
+    "description": "New Year celebration"
+  },
+  {
+    "id": "2022-2",
+    "title": "Makar Sankranti",
+    "date": "2022-01-14",
+    "startTime": "06:00",
+    "duration": 720,
+    "category": "personal",
+    "description": "Hindu festival marking the transition of the sun into Capricorn"
+  },
+  {
+    "id": "2022-3",
+    "title": "Republic Day",
+    "date": "2022-01-26",
+    "startTime": "00:00",
+    "duration": 1440,
+    "category": "meeting",
+    "description": "National holiday celebrating the adoption of the Indian Constitution"
+  },
+  {
+    "id": "2022-4",
+    "title": "Vasant Panchami",
+    "date": "2022-02-05",
+    "startTime": "09:00",
+    "duration": 480,
+    "category": "personal",
+    "description": "Hindu festival dedicated to Goddess Saraswati"
+  },
+  {
+    "id": "2022-5",
+    "title": "Maha Shivratri",
+    "date": "2022-03-01",
+    "startTime": "18:00",
+    "duration": 720,
+    "category": "personal",
+    "description": "Hindu festival dedicated to Lord Shiva"
+  },
+  {
+    "id": "2022-6",
+    "title": "Holi",
+    "date": "2022-03-18",
+    "startTime": "10:00",
+    "duration": 480,
+    "category": "personal",
+    "description": "Festival of colors and spring"
+  },
+  {
+    "id": "2022-7",
+    "title": "Good Friday",
+    "date": "2022-04-15",
+    "startTime": "09:00",
+    "duration": 360,
+    "category": "personal",
+    "description": "Christian observance of the crucifixion of Jesus"
+  },
+  {
+    "id": "2022-8",
+    "title": "Ram Navami",
+    "date": "2022-04-10",
+    "startTime": "06:00",
+    "duration": 720,
+    "category": "personal",
+    "description": "Hindu festival celebrating the birth of Lord Rama"
+  },
+  {
+    "id": "2022-9",
+    "title": "Eid ul-Fitr",
+    "date": "2022-05-03",
+    "startTime": "06:00",
+    "duration": 720,
+    "category": "personal",
+    "description": "Islamic festival marking the end of Ramadan"
+  },
+  {
+    "id": "2022-10",
+    "title": "Buddha Purnima",
+    "date": "2022-05-16",
+    "startTime": "06:00",
+    "duration": 480,
+    "category": "personal",
+    "description": "Buddhist festival celebrating Buddha's birth, enlightenment, and death"
+  },
+  {
+    "id": "2022-11",
+    "title": "Independence Day",
+    "date": "2022-08-15",
+    "startTime": "00:00",
+    "duration": 1440,
+    "category": "meeting",
+    "description": "National holiday celebrating India's independence from British rule"
+  },
+  {
+    "id": "2022-12",
+    "title": "Raksha Bandhan",
+    "date": "2022-08-11",
+    "startTime": "10:00",
+    "duration": 240,
+    "category": "personal",
+    "description": "Hindu festival celebrating the bond between brothers and sisters"
+  },
+  {
+    "id": "2022-13",
+    "title": "Janmashtami",
+    "date": "2022-08-19",
+    "startTime": "00:00",
+    "duration": 1440,
+    "category": "personal",
+    "description": "Hindu festival celebrating the birth of Lord Krishna"
+  },
+  {
+    "id": "2022-14",
+    "title": "Ganesh Chaturthi",
+    "date": "2022-08-31",
+    "startTime": "06:00",
+    "duration": 480,
+    "category": "personal",
+    "description": "Hindu festival celebrating Lord Ganesha"
+  },
+  {
+    "id": "2022-15",
+    "title": "Gandhi Jayanti",
+    "date": "2022-10-02",
+    "startTime": "00:00",
+    "duration": 1440,
+    "category": "meeting",
+    "description": "National holiday celebrating Mahatma Gandhi's birthday"
+  },
+  {
+    "id": "2022-16",
+    "title": "Dussehra",
+    "date": "2022-10-05",
+    "startTime": "16:00",
+    "duration": 240,
+    "category": "personal",
+    "description": "Hindu festival celebrating the victory of good over evil"
+  },
+  {
+    "id": "2022-17",
+    "title": "Diwali",
+    "date": "2022-10-24",
+    "startTime": "18:00",
+    "duration": 360,
+    "category": "personal",
+    "description": "Festival of lights - most important Hindu festival"
+  },
+  {
+    "id": "2022-18",
+    "title": "Christmas",
+    "date": "2022-12-25",
+    "startTime": "00:00",
+    "duration": 1440,
+    "category": "personal",
+    "description": "Christian festival celebrating the birth of Jesus Christ"
+  },
+  {
+    "id": "2021-1",
+    "title": "New Year's Day",
+    "date": "2021-01-01",
+    "startTime": "00:00",
+    "duration": 1440,
+    "category": "personal",
+    "description": "New Year celebration"
+  },
+  {
+    "id": "2021-2",
+    "title": "Makar Sankranti",
+    "date": "2021-01-14",
+    "startTime": "06:00",
+    "duration": 720,
+    "category": "personal",
+    "description": "Hindu festival marking the transition of the sun into Capricorn"
+  },
+  {
+    "id": "2021-3",
+    "title": "Republic Day",
+    "date": "2021-01-26",
+    "startTime": "00:00",
+    "duration": 1440,
+    "category": "meeting",
+    "description": "National holiday celebrating the adoption of the Indian Constitution"
+  },
+  {
+    "id": "2021-4",
+    "title": "Vasant Panchami",
+    "date": "2021-02-16",
+    "startTime": "09:00",
+    "duration": 480,
+    "category": "personal",
+    "description": "Hindu festival dedicated to Goddess Saraswati"
+  },
+  {
+    "id": "2021-5",
+    "title": "Maha Shivratri",
+    "date": "2021-03-11",
+    "startTime": "18:00",
+    "duration": 720,
+    "category": "personal",
+    "description": "Hindu festival dedicated to Lord Shiva"
+  },
+  {
+    "id": "2021-6",
+    "title": "Holi",
+    "date": "2021-03-29",
+    "startTime": "10:00",
+    "duration": 480,
+    "category": "personal",
+    "description": "Festival of colors and spring"
+  },
+  {
+    "id": "2021-7",
+    "title": "Good Friday",
+    "date": "2021-04-02",
+    "startTime": "09:00",
+    "duration": 360,
+    "category": "personal",
+    "description": "Christian observance of the crucifixion of Jesus"
+  },
+  {
+    "id": "2021-8",
+    "title": "Ram Navami",
+    "date": "2021-04-21",
+    "startTime": "06:00",
+    "duration": 720,
+    "category": "personal",
+    "description": "Hindu festival celebrating the birth of Lord Rama"
+  },
+  {
+    "id": "2021-9",
+    "title": "Eid ul-Fitr",
+    "date": "2021-05-13",
+    "startTime": "06:00",
+    "duration": 720,
+    "category": "personal",
+    "description": "Islamic festival marking the end of Ramadan"
+  },
+  {
+    "id": "2021-10",
+    "title": "Buddha Purnima",
+    "date": "2021-05-26",
+    "startTime": "06:00",
+    "duration": 480,
+    "category": "personal",
+    "description": "Buddhist festival celebrating Buddha's birth, enlightenment, and death"
+  },
+  {
+    "id": "2021-11",
+    "title": "Independence Day",
+    "date": "2021-08-15",
+    "startTime": "00:00",
+    "duration": 1440,
+    "category": "meeting",
+    "description": "National holiday celebrating India's independence from British rule"
+  },
+  {
+    "id": "2021-12",
+    "title": "Raksha Bandhan",
+    "date": "2021-08-22",
+    "startTime": "10:00",
+    "duration": 240,
+    "category": "personal",
+    "description": "Hindu festival celebrating the bond between brothers and sisters"
+  },
+  {
+    "id": "2021-13",
+    "title": "Janmashtami",
+    "date": "2021-08-30",
+    "startTime": "00:00",
+    "duration": 1440,
+    "category": "personal",
+    "description": "Hindu festival celebrating the birth of Lord Krishna"
+  },
+  {
+    "id": "2021-14",
+    "title": "Ganesh Chaturthi",
+    "date": "2021-09-10",
+    "startTime": "06:00",
+    "duration": 480,
+    "category": "personal",
+    "description": "Hindu festival celebrating Lord Ganesha"
+  },
+  {
+    "id": "2021-15",
+    "title": "Gandhi Jayanti",
+    "date": "2021-10-02",
+    "startTime": "00:00",
+    "duration": 1440,
+    "category": "meeting",
+    "description": "National holiday celebrating Mahatma Gandhi's birthday"
+  },
+  {
+    "id": "2021-16",
+    "title": "Dussehra",
+    "date": "2021-10-15",
+    "startTime": "16:00",
+    "duration": 240,
+    "category": "personal",
+    "description": "Hindu festival celebrating the victory of good over evil"
+  },
+  {
+    "id": "2021-17",
+    "title": "Diwali",
+    "date": "2021-11-04",
+    "startTime": "18:00",
+    "duration": 360,
+    "category": "personal",
+    "description": "Festival of lights - most important Hindu festival"
+  },
+  {
+    "id": "2021-18",
+    "title": "Christmas",
+    "date": "2021-12-25",
+    "startTime": "00:00",
+    "duration": 1440,
+    "category": "personal",
+    "description": "Christian festival celebrating the birth of Jesus Christ"
+  },
+  {
+    "id": "2020-1",
+    "title": "New Year's Day",
+    "date": "2020-01-01",
+    "startTime": "00:00",
+    "duration": 1440,
+    "category": "personal",
+    "description": "New Year celebration"
+  },
+  {
+    "id": "2020-2",
+    "title": "Makar Sankranti",
+    "date": "2020-01-14",
+    "startTime": "06:00",
+    "duration": 720,
+    "category": "personal",
+    "description": "Hindu festival marking the transition of the sun into Capricorn"
+  },
+  {
+    "id": "2020-3",
+    "title": "Republic Day",
+    "date": "2020-01-26",
+    "startTime": "00:00",
+    "duration": 1440,
+    "category": "meeting",
+    "description": "National holiday celebrating the adoption of the Indian Constitution"
+  },
+  {
+    "id": "2020-4",
+    "title": "Vasant Panchami",
+    "date": "2020-01-29",
+    "startTime": "09:00",
+    "duration": 480,
+    "category": "personal",
+    "description": "Hindu festival dedicated to Goddess Saraswati"
+  },
+  {
+    "id": "2020-5",
+    "title": "Maha Shivratri",
+    "date": "2020-02-21",
+    "startTime": "18:00",
+    "duration": 720,
+    "category": "personal",
+    "description": "Hindu festival dedicated to Lord Shiva"
+  },
+  {
+    "id": "2020-6",
+    "title": "Holi",
+    "date": "2020-03-10",
+    "startTime": "10:00",
+    "duration": 480,
+    "category": "personal",
+    "description": "Festival of colors and spring"
+  },
+  {
+    "id": "2020-7",
+    "title": "Good Friday",
+    "date": "2020-04-10",
+    "startTime": "09:00",
+    "duration": 360,
+    "category": "personal",
+    "description": "Christian observance of the crucifixion of Jesus"
+  },
+  {
+    "id": "2020-8",
+    "title": "Ram Navami",
+    "date": "2020-04-02",
+    "startTime": "06:00",
+    "duration": 720,
+    "category": "personal",
+    "description": "Hindu festival celebrating the birth of Lord Rama"
+  },
+  {
+    "id": "2020-9",
+    "title": "Eid ul-Fitr",
+    "date": "2020-05-24",
+    "startTime": "06:00",
+    "duration": 720,
+    "category": "personal",
+    "description": "Islamic festival marking the end of Ramadan"
+  },
+  {
+    "id": "2020-10",
+    "title": "Buddha Purnima",
+    "date": "2020-05-07",
+    "startTime": "06:00",
+    "duration": 480,
+    "category": "personal",
+    "description": "Buddhist festival celebrating Buddha's birth, enlightenment, and death"
+  },
+  {
+    "id": "2020-11",
+    "title": "Independence Day",
+    "date": "2020-08-15",
+    "startTime": "00:00",
+    "duration": 1440,
+    "category": "meeting",
+    "description": "National holiday celebrating India's independence from British rule"
+  },
+  {
+    "id": "2020-12",
+    "title": "Raksha Bandhan",
+    "date": "2020-08-03",
+    "startTime": "10:00",
+    "duration": 240,
+    "category": "personal",
+    "description": "Hindu festival celebrating the bond between brothers and sisters"
+  },
+  {
+    "id": "2020-13",
+    "title": "Janmashtami",
+    "date": "2020-08-11",
+    "startTime": "00:00",
+    "duration": 1440,
+    "category": "personal",
+    "description": "Hindu festival celebrating the birth of Lord Krishna"
+  },
+  {
+    "id": "2020-14",
+    "title": "Ganesh Chaturthi",
+    "date": "2020-08-22",
+    "startTime": "06:00",
+    "duration": 480,
+    "category": "personal",
+    "description": "Hindu festival celebrating Lord Ganesha"
+  },
+  {
+    "id": "2020-15",
+    "title": "Gandhi Jayanti",
+    "date": "2020-10-02",
+    "startTime": "00:00",
+    "duration": 1440,
+    "category": "meeting",
+    "description": "National holiday celebrating Mahatma Gandhi's birthday"
+  },
+  {
+    "id": "2020-16",
+    "title": "Dussehra",
+    "date": "2020-10-25",
+    "startTime": "16:00",
+    "duration": 240,
+    "category": "personal",
+    "description": "Hindu festival celebrating the victory of good over evil"
+  },
+  {
+    "id": "2020-17",
+    "title": "Diwali",
+    "date": "2020-11-14",
+    "startTime": "18:00",
+    "duration": 360,
+    "category": "personal",
+    "description": "Festival of lights - most important Hindu festival"
+  },
+  {
+    "id": "2020-18",
+    "title": "Christmas",
+    "date": "2020-12-25",
+    "startTime": "00:00",
+    "duration": 1440,
+    "category": "personal",
+    "description": "Christian festival celebrating the birth of Jesus Christ"
+  }
+]
